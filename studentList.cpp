@@ -1,7 +1,7 @@
 /*
  * Author Raveen Karnik
- * Date: 10-3-17
- * This program allows user to add and remove students from a list of students
+ * Date: 12-15-17
+ * This program allows user to add and remove students from a linked list of students
  */
 
 #include <iostream>
