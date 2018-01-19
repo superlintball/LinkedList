@@ -62,7 +62,7 @@ void addStudent(Node* &head)
 	}
 	else
 	{
-		Node* before = recursiveAdd(node, id);
+		Node* before = recursiveAdd(head, id);
 		node->setNext(before->getNext());
 		before->setNext(node);
 	}
